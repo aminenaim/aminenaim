@@ -2,10 +2,6 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/aminenaim)
-
-<br>
-
 * 🔍 Passionate about using my skills to solve real-world problems and looking for new opportunities to learn and grow.
 
 <br>
