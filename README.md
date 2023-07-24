@@ -1,4 +1,4 @@
-<h4 align="center">I'm a fifth-year 'computer science and network engineering' student and an apprentice in IT <a href="https://www.orange.com/">@Orange</a>.</h4>
+<h4 align="center">I'm a final year 'computer science and network engineering' master's degree student and an apprentice in IT <a href="https://www.orange.com/">@Orange</a>.</h4>
 
 <br>
 
