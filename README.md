@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Amine. Currently typewriting and fixing pipelines at <a href="https://www.orange.com/">@Orange</a>.</h4>
+<h4 align="center">Hi, I'm Amine.</h4>
 
 <br>
 
